@@ -1,4 +1,4 @@
-# Hoverboard-Animated
+# 3D-Hoverboard-Animated
 Browse player stats by interacting with a 3D skateboard model.
 
 
